@@ -1,0 +1,2 @@
+# worknote
+every work plan
