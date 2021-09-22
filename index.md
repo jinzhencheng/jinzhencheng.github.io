@@ -3,14 +3,15 @@
 
 ## 9/24
 
-* [ ] 相关事件短信模板替换，详见文档 (to 海东)
-> 【腾讯文档】短信模板
-> https://docs.qq.com/sheet/DVWtQRVBjbEVLU1ZY
+* [ ] 相关事件短信模板替换，详见文档 (to 海东)<br/>
+> 【腾讯文档】短信模板 <br/>
+> https://docs.qq.com/sheet/DVWtQRVBjbEVLU1ZY <br/>
 
 ## 9/22
 
 * [ ] 参照资料将redis知识点儿梳理一遍
 * [ ] 查看solar中bug问题
+> 修改了一小部分
 
 ## 9/18
 
