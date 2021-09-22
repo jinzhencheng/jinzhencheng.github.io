@@ -1,21 +1,24 @@
 
 # 9月份工作日志
 
+## 9/24
+
+* [ ] 相关事件短信模板替换，详见文档 (to 海东)
+> 【腾讯文档】短信模板
+> https://docs.qq.com/sheet/DVWtQRVBjbEVLU1ZY
+
 ## 9/22
 
 * [ ] 参照资料将redis知识点儿梳理一遍
+* [ ] 查看solar中bug问题
 
 ## 9/18
 
 * [ ] skymed-applet 总是自己挂掉，需要排查下原因
 * [x] 查看下数据库慢查询日志 (to 慧娟)
 > 目前没有看到有慢日志的记录，需要慧娟配置下druid来监控下
-* [ ] 查看solar中bug问题
 * [x] 生成一批二维码，扫描跳转到公众号（to 安宁）
 > 已经安排到了coding上，节后第一天需要同步给安宁
-* [ ] 相关事件短信模板替换，详见文档 (to 海东)
-> 【腾讯文档】短信模板
-> https://docs.qq.com/sheet/DVWtQRVBjbEVLU1ZY
 
 ## 9/17
 
