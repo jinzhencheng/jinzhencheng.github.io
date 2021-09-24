@@ -10,6 +10,7 @@
 > https://docs.qq.com/sheet/DVWtQRVBjbEVLU1ZY <br/>
 * [ ] 将远程会诊中排班数据导入远程门诊
 * [ ] 总结mt算法题目
+* [ ] 上周疑难问题
 
 ## 9/23
 
