@@ -10,8 +10,8 @@
 ## 9/24
 
 * [x] 相关事件短信模板替换，详见文档 (to 海东)<br/>
-> 【讯文档】短信模板 <br/>
-> https://docs.qq.com/sheet/DVWtQRVBjbEVLU1ZY <br/>
+【讯文档】短信模板 <br/>
+ https://docs.qq.com/sheet/DVWtQRVBjbEVLU1ZY <br/>
 * [x] 总结mt算法题目
 * [x] 上周疑难问题
 
@@ -68,3 +68,5 @@
 * [x] 荣健申请小程序 / 添加权限
 * [x] 查看了代码中aop的部分
 
+
+[总结](co.html)
