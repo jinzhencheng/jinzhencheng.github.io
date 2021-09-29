@@ -18,5 +18,16 @@ java.util.concurrent包中，使用Executors创建各种请情景下的线程类
   与之对应的是对象发布，也就是“将对象在当前作用域之外的地方被引用”,逃逸也便是再不该被发布的地方发布了，比如：在构造方法里面启动了调用了start()
   参照示例：https://app.yinxiang.com/shard/s11/nl/2273189/2123feeb-af34-424a-8b44-c4b6d2f5f052/
 
+# 美团
+
+1. 自定义string是否可以加载，如何加载？
+2. 多线程问题
+3. HashMap,HashTable,CocurrentHashMap
+4. IOC / AOP
+5. Bean 如何装配 
+6. 双亲委派
+
+# 小米
+问了很多Why类问题
 
 
